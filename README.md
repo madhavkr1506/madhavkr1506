@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
 <h3 align="center">Learning Data Science</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/003/216/651/original/ai-artificial-intelligence-robot-team-developer-programmer-free-vector.jpg">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1701280429~exp=1701284029~hmac=d619906cded5dede8913b314c8c4227edc46672b09c8b0fc22c0fb467712b824&w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
 <p align="left"> <a href="https://twitter.com/madhav_1506" target="blank"><img src="https://img.shields.io/twitter/follow/madhav_1506?logo=twitter&style=for-the-badge" alt="madhav_1506" /></a> </p>
