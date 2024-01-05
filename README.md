@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
 <h3 align="center">Learning Data Science</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-ai-image/view-3d-boy-using-laptop_59997854.htm#query=java&position=15&from_view=search&track=sph&uuid=d969f349-3dba-40ae-94bc-3d3723c7fbd1">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavkr1506" alt="madhavkr1506" /></a> </p>
