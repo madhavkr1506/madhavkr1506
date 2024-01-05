@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavkr1506" alt="madhavkr1506" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1704447662~exp=1704451262~hmac=f496008c010851ef7d1fd5d457858720a4f95692dbd47e20220e18630004d75e&w=740">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/developer-testing-app-design_665280-9621.jpg?w=740">
 
 <p align="left"> <a href="https://twitter.com/madhav_1506" target="blank"><img src="https://img.shields.io/twitter/follow/madhav_1506?logo=twitter&style=for-the-badge" alt="madhav_1506" /></a> </p>
 
