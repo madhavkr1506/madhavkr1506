@@ -1,10 +1,8 @@
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/developer-testing-app-design_665280-9621.jpg?w=740">
-
 <h1 align="center">Hi 👋, I'm Madhav Kumar</h1>
 <h3 align="center">Learning Data Science</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1704447662~exp=1704451262~hmac=f496008c010851ef7d1fd5d457858720a4f95692dbd47e20220e18630004d75e&w=740">
+<img align="right" alt="Coding" width="400" src="<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/developer-testing-app-design_665280-9621.jpg?w=740">
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
