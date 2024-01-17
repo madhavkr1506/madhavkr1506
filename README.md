@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Madhav</h1>
-<h3 align="center">Kumar</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavkr1506&theme=default" alt="madhavkr1506" /></a> </p>
@@ -36,13 +35,3 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavkr1506&show_icons=true&locale=en&theme=highcontrast" alt="madhavkr1506" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavkr1506&theme=highcontrast" alt="madhavkr1506" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/madhavkr1506">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhavkr1506&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavkr1506&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavkr1506&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavkr1506&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavkr1506&theme=aura" height="180em" />
-</div>
