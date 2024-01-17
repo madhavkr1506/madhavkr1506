@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavkr1506&theme=default" alt="madhavkr1506" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1704447662~exp=1704451262~hmac=f496008c010851ef7d1fd5d457858720a4f95692dbd47e20220e18630004d75e&w=740">
 - 🌱 I’m currently learning **Java Programming Language**
 - 💬 Ask me about **Java, R, C++, C**
 - 📫 How to reach me **madhavkr9153276724@gmail.com**
