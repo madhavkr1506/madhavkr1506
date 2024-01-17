@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Madhav</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavkr1506&theme=default" alt="madhavkr1506" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **madhavkr9153276724@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/view-3d-boy-using-laptop_23-2150709886.jpg?t=st=1704447662~exp=1704451262~hmac=f496008c010851ef7d1fd5d457858720a4f95692dbd47e20220e18630004d75e&w=740">
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-9077972-7440062.mp4">
 
 
 </div><h3 align="left">Connect with me:</h3>
