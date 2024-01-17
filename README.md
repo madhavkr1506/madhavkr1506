@@ -9,13 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/madhav_1506" target="blank"><img src="https://img.shields.io/twitter/follow/madhav_1506?logo=twitter&style=for-the-badge" alt="madhav_1506" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?w=1060&t=st=1705494123~exp=1705494723~hmac=457b603dbeba1ebf265ba44feeed4e3d39d5a7918989130d5406e278882b1082">
+
 - 🌱 I’m currently learning **Java programming language**
 
 - 💬 Ask me about **Java, C++, C**
 
 - 📫 How to reach me **madhavkr9153276724@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?w=1060&t=st=1705494123~exp=1705494723~hmac=457b603dbeba1ebf265ba44feeed4e3d39d5a7918989130d5406e278882b1082">
+
 
 
 </div><h3 align="left">Connect with me:</h3>
