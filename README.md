@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java programming language<br>💬 Ask me about Java. C++, C, R<br>⚡ Fun fact Music helps improve language skills
+🌱 I’m currently learning Java programming language<br>💬 Ask me about Java, C++, C, R<br>⚡ Fun fact Music helps improve language skills
 
 
 ## 🌐 Socials:
