@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Madhav</h1>
+<h3 align="center">Learning Data Science</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavkr1506&label=Profile%20views&color=0e75b6&style=flat" alt="madhavkr1506" /> </p>
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **madhavkr9153276724@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-9077972-7440062.mp4">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-boy-standing-position-showing-thumb_96037-450.jpg?w=1060&t=st=1705494123~exp=1705494723~hmac=457b603dbeba1ebf265ba44feeed4e3d39d5a7918989130d5406e278882b1082">
 
 
 </div><h3 align="left">Connect with me:</h3>
