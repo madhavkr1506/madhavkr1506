@@ -36,8 +36,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkr1506&layout=compact&theme=default" alt=madhavkr1506 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavkr1506&layout=compact&theme=" alt=madhavkr1506 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavkr1506&show_icons=true&locale=en&theme=default" alt="madhavkr1506" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavkr1506&show_icons=true&locale=en&theme=" alt="madhavkr1506" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavkr1506&theme=default" alt="madhavkr1506" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavkr1506&theme=" alt="madhavkr1506" /></p>
