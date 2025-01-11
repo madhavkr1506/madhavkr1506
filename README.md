@@ -1,61 +1,62 @@
-## Hi there! 👋
+<h2 align="left">Hi 👋! My name is Madhav and I'm a Android Developer, from India</h2>
 
-I'm **Madhav Kumar**, an enthusiastic software developer with a passion for creating innovative solutions. Always eager to learn new technologies and collaborate on exciting projects.
+###
 
-## About Me
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Located at Lovely Professional University in Punjab, I'm currently exploring the world of software development. My journey in tech is driven by my curiosity and desire to build impactful applications.
+###
 
-## Skills & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+</div>
 
-java,kotlin,flutter,cpp,html,css,mysql,git,dart,mongodb,c,spring,androidstudio,r
+###
 
-## Top Projects
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
 
-- [SentimentAnalysis](https://github.com/madhavkr1506/SentimentAnalysis)
-  - **Description:** A Java-based project for analyzing sentiments in text.
-  - **Stars:** 1 ⭐ | **Language:** Java
+###
 
-- [Android_ChatBot](https://github.com/madhavkr1506/Android_ChatBot)
-  - **Description:** A native platform application for chatting.
-  - **Stars:** 1 ⭐ | **Language:** Kotlin
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-- [Flutter](https://github.com/madhavkr1506/Flutter)
-  - **Description:** Framework to create cross-platform applications with a single codebase.
-  - **Stars:** 1 ⭐ | **Language:** C++
-
-- [ProducerConsumer](https://github.com/madhavkr1506/ProducerConsumer)
-  - **Description:** Process synchronization implementation in Java.
-  - **Stars:** 1 ⭐ | **Language:** Java
-
-- [Javax.mail](https://github.com/madhavkr1506/Javax.mail)
-  - **Description:** Java project leveraging the JavaMail library to send emails and SMS-like messages.
-  - **Stars:** 1 ⭐ | **Language:** Java
-
-## GitHub Stats
-
-### GitHub Stats
-
-- **Public Repositories:** 32
-- **Followers:** 28
-- **Following:** 32
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavkr1506&show_icons=true&theme=radical)
-
-## Recent Activity
-
-Here are some of my latest GitHub activities:
-
-- **[ProducerConsumer](https://github.com/madhavkr1506/ProducerConsumer)** updated 🔄
-- **[Flutter](https://github.com/madhavkr1506/Flutter)** updated 🔄
-- **[Kotlin](https://github.com/madhavkr1506/Kotlin)** updated 🔄
-- **[Javax.mail](https://github.com/madhavkr1506/Javax.mail)** updated 🔄
-- **[Dart_Language](https://github.com/madhavkr1506/Dart_Language)** updated 🔄
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but I'm looking forward to starting a blog soon!
-
-## Connect with Me
-
-{"twitter":"https://twitter.com/Madhav_1506","linkedin":"https://www.linkedin.com/in/madhavkumar1506","instagram":"https://instagram.com/madhav_kr","facebook":"https://www.facebook.com/MadhavKumar1506"}
+###
