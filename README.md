@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/madhav_1506" target="blank"><img src="https://img.shields.io/twitter/follow/madhav_1506?logo=twitter&style=for-the-badge" alt="madhav_1506" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter Framework & Spring Framework**
+- <img src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg?t=st=1736613829~exp=1736617429~hmac=2be5c71516c2d9e7b9acfde4a959bc1ec0ae76580712b8d3b0911acd743eac90&w=1380" alt="Learning Image" width="100" height="100"/>
+
 
 - 💬 Ask me about **Java, Dart**
 
