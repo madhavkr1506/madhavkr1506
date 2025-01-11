@@ -32,4 +32,4 @@ Currently, I do not have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{"twitter":"https://twitter.com/Madhav_1506","linkedin":"https://www.linkedin.com/in/madhavkumar1506","instagram":"https://instagram.com/madhav_kr","facebook":"https://www.facebook.com/MadhavKumar1506","leetcode":"https://www.geeksforgeeks.org/user/madhavkr/"}
+{"twitter":"https://twitter.com/Madhav_1506","linkedin":"https://www.linkedin.com/in/madhavkumar1506","instagram":"https://instagram.com/madhav_kr","facebook":"https://www.facebook.com/MadhavKumar1506","leetcode":"https://leetcode.com/u/madhavkr1506/"}
