@@ -55,10 +55,8 @@
 <h3 align="left">Featured Repositories:</h3>
 <div align="left">
   <a href="https://github.com/madhavkr1506/SentimentAnalysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkr1506&repo=popular-repo-1" alt="Popular Repository 1" />
   </a>
-  <a href="https://github.com/madhavkr1506/popular-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhavkr1506&repo=popular-repo-2" alt="Popular Repository 2" />
+  <a href="https://github.com/madhavkr1506/Android_ChatBot">
   </a>
 </div>
 
