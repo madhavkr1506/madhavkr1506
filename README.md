@@ -49,7 +49,7 @@
       </p>
     </td>
     <td>
-      <img src="[https://img.freepik.com/free-photo/coding-man-laptop_1098-18305.jpg?t=st=1736615725~exp=1736619325~hmac=1dc2c2550d8b5d5c15f68ef8c88a80d0f861441f7c49fdb67a1a8969ad478d9d&w=1060](https://www.freepik.com/free-vector/cute-baby-crawling-cartoon-character_27187597.htm#fromView=keyword&page=1&position=1&uuid=305f311a-613b-4073-b94a-1d7b7bbd766a&query=Baby+cartoon)" alt="Coding" style="border-radius: 10px; width: 300px;">
+      <img src="https://cdn.pixabay.com/photo/2022/02/13/17/22/cartoon-easter-bunny-7011655_1280.jpg" alt="Coding" style="border-radius: 10px; width: 300px;">
     </td>
   </tr>
 </table>
