@@ -8,11 +8,12 @@
 ---
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD Pipelines, and Spring Framework**
-- 💻 Hands-on experience with **AWS services** like EC2, S3, Lambda, RDS, DynamoDB, VPC, CloudWatch, SQS, SNS, and EKS  
-- 🐳 Intermediate in **Docker** and exploring container orchestration  
-- 💬 Ask me about **Java, Kotlin, Spring Boot, Backend APIs, and Cloud Infrastructure**
+- 💻 Skilled in **Java, Kotlin, and Python** for backend and automation
+- ☁️ Hands-on experience with **AWS services** like EC2, S3, Lambda, RDS, DynamoDB, VPC, CloudWatch, SQS, SNS, and EKS  
+- 🐳 Intermediate in **Docker**, exploring container orchestration with **Kubernetes**
+- 💬 Ask me about **Python, Java, Spring Boot, REST APIs, and Cloud Infrastructure**
 - 📫 Reach me at **madhavkr9153276724@gmail.com**
-- ⚡ Fun fact: **I love optimizing systems and building scalable solutions.**
+- ⚡ Fun fact: **I love optimizing systems and automating workflows using Python.**
 
 ---
 
@@ -35,6 +36,7 @@
   <tr>
     <td>
       <p align="left"> 
+        <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
         <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -47,7 +49,7 @@
       </p>
     </td>
     <td>
-      <img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1736615725~exp=1736619325~hmac=217383de39d4d70533745c0f69d4a0c2dae33b5dbb93fef0f368cb334a50c3b9&w=1060" alt="Coding" style="border-radius: 10px; width: 300px;">
+      <img src="https://img.freepik.com/free-photo/coding-man-laptop_1098-18305.jpg?t=st=1736615725~exp=1736619325~hmac=1dc2c2550d8b5d5c15f68ef8c88a80d0f861441f7c49fdb67a1a8969ad478d9d&w=1060" alt="Coding" style="border-radius: 10px; width: 300px;">
     </td>
   </tr>
 </table>
