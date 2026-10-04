@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD Pipelines, and Spring Framework**
-- 💻 Skilled in **Java, Kotlin, and Python** for backend and automation
+- 💻 Skilled in **Python & Java** for backend and automation
 - ☁️ Hands-on experience with **AWS services** like EC2, S3, Lambda, RDS, DynamoDB, VPC, CloudWatch, SQS, SNS, and EKS  
 - 🐳 Intermediate in **Docker**, exploring container orchestration with **Kubernetes**
 - 💬 Ask me about **Python, Java, Spring Boot, REST APIs, and Cloud Infrastructure**
